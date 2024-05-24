@@ -1,9 +1,10 @@
 # Node.js-projekt---praksa
-Projektni zadatak u sklopu stručne prakse
+Projektni zadatak u sklopu stručne prakse 
+Mendadžment hotela
 
 # CRUD Aplikacija za Upravljanje Podacima
 
-Ova aplikacija je razvijena kao dio stručne prakse u tvrtki Informatika Fortuno d.o.o. Cilj aplikacije je pružiti funkcionalnosti za upravljanje podacima u bazi koristeći CRUD operacije (Create, Read, Update, Delete) putem API-ja. Aplikacija koristi Node.js, Express, MySQL, i druge tehnologije za razvoj backend sustava.
+Ova aplikacija je razvijena kao dio stručne prakse u tvrtki Informatika Fortuno d.o.o. Cilj aplikacije je pružiti funkcionalnosti za upravljanje podacima u bazi koristeći CRUD operacije (Create, Read, Update, Delete) putem API-ja. Aplikacija koristi Node.js, Express, MySQL, i druge tehnologije za razvoj backend sustava. Aplikacija je dizajnirana kako bi simulirala menadžment hotela.
 
 ## Tehnologije
 
