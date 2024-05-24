@@ -1,6 +1,5 @@
 # Node.js-projekt---praksa
-Projektni zadatak u sklopu stručne prakse 
-Mendadžment hotela
+Projektni zadatak u sklopu stručne prakse - Mendadžment hotela
 
 # CRUD Aplikacija za Upravljanje Podacima
 
